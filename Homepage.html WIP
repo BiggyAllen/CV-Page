@@ -9,20 +9,43 @@
 <body>
   <div class="content">
     <h3>
-      <ul class="tabs">
-        <a href="#introduction"><li>Introduction</li></a>
-        <a href="#work-history"><li>Work History</li></a>
-        <a href="#education"><li>Education</li></a>
-        <a href="#projects"><li>Projects</li></a>
-        <a href="#github"><li>GitHub</li></a>
+      <ul class="directory">
+        <a href="#introduction-header"><li>Introduction</li></a>
+        <a href="#work-history-header"><li>Work History</li></a>
+        <a href="#education-header"><li>Education</li></a>
+        <a href="#projects-header"><li>Projects</li></a>
+        <a href="https://github.com/BiggyAllen" target="_blank"><li>GitHub</li></a>
       </ul>
     </h3>
-    <h1 id="introduction" class="">
+    
+    <h1 id="introduction-header" class="header introduction">
       Introduction
     </h1>
-    <p>
-      Hello all, I (insert introduction here)
+    <p class="introduction">
+      Hello all, I (insert introduction here) (maybe call this "a little about me or something")
     </p>
+    
+    <h1 id="work-history-header" class="header work-history">
+      Work History
+    </h1>
+    <p class="work-history">
+      (Insert work history here)
+    </p>
+    
+    <h1 id="education-header" class="header education">
+      Education
+    </h1>
+    <p class="education">
+      (insert education here)
+    </p>
+    
+    <h1 id="projects" class="header projects">
+      Projects
+    </h1>
+    <p class="projects">
+      (insert projects here)
+    </p>
+    
   </div>
 </body>
 
