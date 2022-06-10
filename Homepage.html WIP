@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>John Allen CV</title>
+  <link href='homepage.css' rel='stylesheet'>
+</head>
+
+<body>
+  <div class="content">
+    <h3>
+      <ul class="tabs">
+        <a href="#introduction"><li>Introduction</li></a>
+        <a href="#work-history"><li>Work History</li></a>
+        <a href="#education"><li>Education</li></a>
+        <a href="#projects"><li>Projects</li></a>
+        <a href="#github"><li>GitHub</li></a>
+      </ul>
+    </h3>
+    <h1 id="introduction" class="">
+      Introduction
+    </h1>
+    <p>
+      Hello all, I (insert introduction here)
+    </p>
+  </div>
+</body>
+
+</html>
