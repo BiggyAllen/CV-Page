@@ -15,6 +15,7 @@
         <a href="#education-header"><li>Education</li></a>
         <a href="#projects-header"><li>Projects</li></a>
         <a href="https://github.com/BiggyAllen" target="_blank"><li>GitHub</li></a>
+        <a href="#contact-header"><li>Contact Me</li></a>
       </ul>
     </h3>
     
@@ -44,6 +45,13 @@
     </h1>
     <p class="projects">
       (insert projects here)
+    </p>
+    
+    <h1 id="contact-header" class="header contact">
+      Contact Me
+    </h1>
+    <p class="contact">
+      (insert contact information / maybe add a button that emails me)
     </p>
     
   </div>
