@@ -1,0 +1,29 @@
+body {
+  background: #141E30;
+  
+  background: linear-gradient(-45deg, #35577D, #141E30);
+  
+  color: white;
+  
+  font-weight: 100;
+  
+  
+}
+
+.content {
+  color: rgb(255 133 107)
+}
+
+.navigation a {
+  font-family: sans-serif;
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navigation  a:hover {
+  background: rgb(6 107 210);
+}
