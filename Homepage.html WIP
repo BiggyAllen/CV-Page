@@ -8,16 +8,15 @@
 
 <body>
   <div class="content">
-    <h3>
-      <ul class="directory">
-        <a href="#introduction-header"><li>Introduction</li></a>
-        <a href="#work-history-header"><li>Work History</li></a>
-        <a href="#education-header"><li>Education</li></a>
-        <a href="#projects-header"><li>Projects</li></a>
-        <a href="https://github.com/BiggyAllen" target="_blank"><li>GitHub</li></a>
-        <a href="#contact-header"><li>Contact Me</li></a>
-      </ul>
-    </h3>
+    <div class=navigation>
+      <a href="#introduction-header">Introduction</a>
+      <a href="#work-history-header">Work History</a>
+      <a href="#skills-header">Skills</a>
+      <a href="#education-header">Education</a>
+      <a href="#projects-header">Projects</a>
+      <a href="https://gihub.com/BiggyAllen" target="_blank">GitHub</a>
+      <a href="#contact-header">Contact Me</a>
+    </div>
     
     <h1 id="introduction-header" class="header introduction">
       Introduction
@@ -32,13 +31,53 @@
     <p class="work-history">
       (Insert work history here)
     </p>
+   
+   <h1 id="skills" class="header skills">
+      Skills
+    </h1>
+    <div class="skills">
+      <h4 class="programming-skills">
+        Programming
+      </h4>
+      <ul class="computer languages">
+        <li>C</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>HTML / CSS</li>
+        <li>SQL</li>
+        <li>Bootstrap</li>
+        <li>ReactJS</li>
+        <li>Flask</li>
+        <li>Assembly (0x86)</li>
+        <li>MATLAB</li>
+        <li>GitHub</li>
+      </ul>
+    </div>
     
+    <div>
+      <h4 class="hadware-skills">
+      Hardware
+      </h4>
+      <ul>
+        <li>LabVIEW</li>
+        <li>AutoCAD</li>
+        <li>Altium</li>
+        <li>SolidWorks</li>
+        <li>LogicWorks</li>
+        <li>MultiSim</li>
+        <li>All Lab Machines (Oscilloscope, Digital Multimeter, Function Generator, Solderer</li>
+      </ul>
+      
+    </div>
+   
     <h1 id="education-header" class="header education">
       Education
     </h1>
     <p class="education">
       (insert education here)
     </p>
+    
+    
     
     <h1 id="projects" class="header projects">
       Projects
