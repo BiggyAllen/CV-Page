@@ -1,11 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   
   background: linear-gradient(-45deg, #35577D, #141E30);
+  font-family: Ariel;
   font-weight: 100;
   background-image: url(https://i.pinimg.com/736x/a5/5a/31/a55a3167f0a068894620b8ef69fd9040.jpg);
   background-size: cover;
   position: relative;
-  
 }
 
 #introduction {
@@ -13,7 +17,7 @@ body {
 }
 
 .content {
-  color: rgb(64 70 251)
+  color: rgb(242 242 242);
 }
 
 .navigation a {
@@ -31,13 +35,25 @@ body {
   background: rgb(6 107 210);
 }
 
+.header {
+  font-family: verdana;
+}
+
+.work-timeline {
+  font-size: 12px;
+}
+
 .skills-lists {
   display: inline-block;
   align-items: center;
-  padding: 20px;
+  padding-left: 20px;
+  padding-top: 0;
 }
 
 ul {
-  list-style: none;
   list-style-position: outside;
+}
+
+.lists {
+  padding-left: 0;
 }
