@@ -32,14 +32,14 @@
       (Insert work history here)
     </p>
    
-   <h1 id="skills" class="header skills">
+   <h1 id="skills-header" class="header skills">
       Skills
-    </h1>
-    <div class="skills">
+  </h1>
+    <div class="skills-lists">
       <h4 class="programming-skills">
         Programming
       </h4>
-      <ul class="computer languages">
+      <ul class="computer-languages">
         <li>C</li>
         <li>Python</li>
         <li>JavaScript</li>
@@ -54,7 +54,7 @@
       </ul>
     </div>
     
-    <div>
+    <div class="skills-lists">
       <h4 class="hadware-skills">
       Hardware
       </h4>
@@ -65,9 +65,9 @@
         <li>SolidWorks</li>
         <li>LogicWorks</li>
         <li>MultiSim</li>
-        <li>All Lab Machines (Oscilloscope, Digital Multimeter, Function Generator, Solderer</li>
+        <li>All Lab Skills</li>
       </ul>
-      
+      <br><br><br>
     </div>
    
     <h1 id="education-header" class="header education">
