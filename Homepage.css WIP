@@ -1,17 +1,19 @@
 body {
-  background: #141E30;
   
   background: linear-gradient(-45deg, #35577D, #141E30);
-  
-  color: white;
-  
   font-weight: 100;
-  
+  background-image: url(https://i.pinimg.com/736x/a5/5a/31/a55a3167f0a068894620b8ef69fd9040.jpg);
+  background-size: cover;
+  position: relative;
   
 }
 
+#introduction {
+  padding: 20px;
+}
+
 .content {
-  color: rgb(255 133 107)
+  color: rgb(64 70 251)
 }
 
 .navigation a {
@@ -22,8 +24,20 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  background: linear-gradient(0, #0b0403, #fb5840);
 }
 
 .navigation  a:hover {
   background: rgb(6 107 210);
+}
+
+.skills-lists {
+  display: inline-block;
+  align-items: center;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  list-style-position: outside;
 }
