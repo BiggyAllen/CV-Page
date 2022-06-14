@@ -22,7 +22,7 @@
       Introduction
     </h1>
     <p class="introduction">
-      Hello all, I (insert introduction here) (maybe call this "a little about me or something")
+      Hi!  If you found this page, you were probably directed here from one of my applications to your company.  If so, let me summarize what you see on my CV, as well as what can't be seen:<br>I graduated from UMass Lowell with a Bachelors of Science in Electrical Engineering.  When I finished school, I was ready to take on the world and join the tech industry.  However, through the process of applying for electrical engineering jobs, and speaking with those who had graduated with me, I learned that nobody was hiring entry-level positions in my field.  I had planned to do an internship between my junior and senior year, but COVID said no.  Every single one of the numerous internships I applied for had cancelled their intern programs for the foreseeable future due to the global pandemic.  I couldn't blame them, but I was still distraught.  I was told that I would need an internship or co-op semester under my belt in order to be a viable candidate anywhere.<br>Never the less, I did find a job.  It just wasn't one I was terribly interested in.  I was an Electrical Project Engineer for a general contractor that does large scale construction projects.  I took the first job offered to me since I was in dire need of an income and being a bartender on weekends wasn't cutting it.  I was there for 6 months before finally finding a better job that was closer to what I wanted to do, but still not quite there.<br>I now work as an Computer Engineering Project Planner for a company that makes data acquisition (I/O) devices.  This company does something I would be interested in, but my role in it is more managerial than engineering.<br>When I was a student, I focused more on the hardware side of my degree than the limited software experience they offered.  I was naive and thought that you could do one without the other.  So, since I have been at this new job I have used all of my free time learning how to code and be a programmer.  I have discovered a new passion for what I had previously written off.  I figured out that it wasn't programming that I wasn't interested in, but I wasn't interested in the way it was taught.  I found writing out code with a pencil to solve some simple question on an exam boring, but I have enjoyed so very much self teaching myself and creating my own projects that can affect the real world.  I am continuing to expose myself to new languages and frameworks to overcome new challenges I will hopefully run into in a career that utilizes these skills.
     </p>
     
     <h1 id="work-history-header" class="header work-history">
@@ -31,24 +31,34 @@
       <ul class="lists" style="list-style-type:none">
         <li style="font-size:18px">United Electronic Industries Inc.</li>
         <li style="font-size:11px">March 2022 - Present</li>
-        <li stlye="font-size:100px">Computer Engineering Project Planner</li>
+        <li stlye="font-size:15px">Computer Engineering Project Planner</li>
       </ul>
       Essential Elements:<br>
       <ul>
-        <li>Work with the engineering and design validation teams to create and maintain up-to-date schedules for project development and release.</li>
-        <li>Perform risk and critical path analysis, provide routine status reports, and estimate release dates.</li>
-        <li>Assist Director of Engineering to keep projects on schedule.</li>
-        <li>Assist engineering team to adhere it its own process and established standards.</li>
-        <li>Create and maintain master schedule to establish sequence and lead time of deliverables.</li>
-        <li>Communicate with manufacturing to schedule prototype and pilot builds according to project plans and maintain status of prototype builds.</li>
-        <li>Tracks costs of each project on monthly basis.</li>
-        <li>Monitor schedule compliance levels and identify reasons for completion delays.</li>
-        <li>Evaluate current procedures and recommend changes to improve the efficiency of planning and scheduling of projects.</li>
-        <li>Perform general administrative office functions in support of the Director of Engineering to accomplish engineering team objectives.</li>
-        <li>Work with engineers to manage materials, prototypes, and engineering units.</li>
+        <li>Work with the engineering and design validation teams to create and maintain up-to-date schedules for project development and release</li>
+        <li>Perform risk and critical path analysis, provide routine status reports, and estimate release dates</li>
+        <li>Assist Director of Engineering to keep projects on schedule</li>
+        <li>Assist engineering team to adhere it its own process and established standards</li>
+        <li>Create and maintain master schedule to establish sequence and lead time of deliverables</li>
+        <li>Communicate with manufacturing to schedule prototype and pilot builds according to project plans and maintain status of prototype builds</li>
+        <li>Tracks costs of each project on monthly basis</li>
+        <li>Monitor schedule compliance levels and identify reasons for completion delays</li>
+        <li>Evaluate current procedures and recommend changes to improve the efficiency of planning and scheduling of projects</li>
+        <li>Perform general administrative office functions in support of the Director of Engineering to accomplish engineering team objectives</li>
+        <li>Work with engineers to manage materials, prototypes, and engineering units</li>
       </ul>
-      
-    </p>
+      <ul class="lists" style="list-style-type:none">
+        <li style="font-size:18px">J.F. White Contracting Co.</li>
+        <li style="font-size:11px">July 2021 - March 2022</li>
+        <li stlye="font-size:100px">Electrical Project Engineer</li>
+      </ul>
+      <ul>
+        <li>Management of project documents for several projects at once - submittals, RFI’s, shop drawings, quality control, and safety records</li>
+        <li>Issue mitigation</li>
+        <li>Perform project cost cost control and assist estimating department with takeoffs</li>
+        <li>Use AutoCAD to create drawings to submit to the owner of the project</li>
+        <li>Maintain reports and logs of contract deliverables</li>
+      </ul>
    
    <h1 id="skills-header" class="header skills">
       Skills
@@ -87,28 +97,48 @@
       </ul>
       <br><br><br>
     </div>
+    
+    <div class="skills-lists">
+      <h4 class="certifications-skills">
+        Certifications
+      </h4>
+      <ul class="lists" style="list-style-type:none">
+      <li>Computer Science for Web <br>Programming Professional Certificate</li>
+      <li>OSHA 30</li>
+      <li>Keolis RWP</li>
+      </ul>
+      <br><br><br><br><br><br>
+    </div>
    
     <h1 id="education-header" class="header education">
       Education
     </h1>
     <p class="education">
-      (insert education here)
-    </p>
-    
+      <ul class="lists" style="list-style-type:none">
+        <li style="font-size:22px">University of Massachusetts Lowell</li>
+        <li style="font-size:17px">Bachelor of Science in Electrical Engineering</li>
+        <li style="font-size:11px">May 2021</li>
+      </ul>
+      <ul class="lists" style="list-style-type:none">
+        <li style="font-size:22px">Western New England University</li>
+        <li style="font-size:17px">Pre-Pharmacy</li>
+        <li style="font-size:11px">September 2015 - May 2017</li>
+      </ul>    
     
     
     <h1 id="projects-header" class="header projects">
       Projects
     </h1>
     <p class="projects">
-      (insert projects here)
+      <a style="font-size:22px">Smart Cabinet | Capstone Project</a><br><br>
+      Developed a SMART Cabinet for the ECE Department at UMass Lowell featuring a secure and smart inventory system, RFID scanning system, security camera, ID scanner, remote access for admins, and automated locks.
     </p>
     
     <h1 id="contact-header" class="header contact">
       Contact Me
     </h1>
     <p class="contact">
-      (insert contact information / maybe add a button that emails me)
+      <button type="button">Email Me!</button>
     </p>
     
   </div>
