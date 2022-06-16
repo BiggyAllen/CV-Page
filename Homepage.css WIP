@@ -5,7 +5,6 @@ html {
 body {
   
   background: linear-gradient(-45deg, #35577D, #141E30);
-  font-family: Ariel;
   font-weight: 100;
   background-image: url(https://i.pinimg.com/736x/a5/5a/31/a55a3167f0a068894620b8ef69fd9040.jpg);
   background-size: cover;
@@ -29,6 +28,14 @@ body {
   text-decoration: none;
   font-size: 17px;
   background: linear-gradient(0, #0b0403, #fb5840);
+}
+
+nav {
+  margin: 0 0 0 0;
+  width: 100%;
+  position: fixed;
+  display: block;
+  overflow: auto;
 }
 
 .navigation  a:hover {
