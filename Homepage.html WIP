@@ -8,7 +8,7 @@
 
 <body>
   <div class="content">
-    <div class=navigation>
+    <nav class=navigation>
       <a href="#introduction-header">Introduction</a>
       <a href="#work-history-header">Work History</a>
       <a href="#skills-header">Skills</a>
@@ -16,10 +16,10 @@
       <a href="#projects-header">Projects</a>
       <a href="https://gihub.com/BiggyAllen" target="_blank">GitHub</a>
       <a href="#contact-header">Contact Me</a>
-    </div>
+    </nav>
     
     <h1 id="introduction-header" class="header introduction">
-      Introduction
+      <br><br>Introduction
     </h1>
     <p class="introduction">
       Hi!  If you found this page, you were probably directed here from one of my applications to your company.  If so, let me summarize what you see on my CV, as well as what can't be seen:<br>I graduated from UMass Lowell with a Bachelors of Science in Electrical Engineering.  When I finished school, I was ready to take on the world and join the tech industry.  However, through the process of applying for electrical engineering jobs, and speaking with those who had graduated with me, I learned that nobody was hiring entry-level positions in my field.  I had planned to do an internship between my junior and senior year, but COVID said no.  Every single one of the numerous internships I applied for had cancelled their intern programs for the foreseeable future due to the global pandemic.  I couldn't blame them, but I was still distraught.  I was told that I would need an internship or co-op semester under my belt in order to be a viable candidate anywhere.<br>Never the less, I did find a job.  It just wasn't one I was terribly interested in.  I was an Electrical Project Engineer for a general contractor that does large scale construction projects.  I took the first job offered to me since I was in dire need of an income and being a bartender on weekends wasn't cutting it.  I was there for 6 months before finally finding a better job that was closer to what I wanted to do, but still not quite there.<br>I now work as an Computer Engineering Project Planner for a company that makes data acquisition (I/O) devices.  This company does something I would be interested in, but my role in it is more managerial than engineering.<br>When I was a student, I focused more on the hardware side of my degree than the limited software experience they offered.  I was naive and thought that you could do one without the other.  So, since I have been at this new job I have used all of my free time learning how to code and be a programmer.  I have discovered a new passion for what I had previously written off.  I figured out that it wasn't programming that I wasn't interested in, but I wasn't interested in the way it was taught.  I found writing out code with a pencil to solve some simple question on an exam boring, but I have enjoyed so very much self teaching myself and creating my own projects that can affect the real world.  I am continuing to expose myself to new languages and frameworks to overcome new challenges I will hopefully run into in a career that utilizes these skills.
